@@ -13,6 +13,7 @@ KiCad version available under scheme folder
 
 
 Reference| Quantity| Value| Footprint| Datasheet
+---| ---| ---| ---| ---
 Q1 |1|"BS170"|"Package_TO_SOT_THT:TO-92_Inline"|"https://www.onsemi.com/pub/Collateral/BS170-D.PDF"
 R1 |1|"Heater"|""|"~"
 RV1 |1|"R_POT"|""|"~"
